@@ -40,6 +40,9 @@ GRAPHICS	:=	gfx
 GFXBUILD	:=	$(BUILD)
 #ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
+APP_TITLE   :=  Grimoire Tactica 3D
+APP_DESCRIPTION := A tactical role-playing collectible card game.
+APP_AUTHOR  := Infernal Grimoire Games
 
 #---------------------------------------------------------------------------------
 # options for code generation
